@@ -8,10 +8,14 @@
 ---
 
 ## 🧑‍💻 About Me
+<h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
 I am a **DevOps Engineer with 3+ years of hands-on experience** building, automating, and operating **scalable, secure, and highly available cloud-native systems**.
 
-I specialize in:                                                               <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fe8a06c1-e28d-4eec-9471-83eea460ebac" />
+I specialize in:                                                               
 - Designing **CI/CD pipelines from scratch**
 - Automating infrastructure using **IaC & scripting**
 - Deploying and managing **containerized workloads on Kubernetes**
