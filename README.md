@@ -1,15 +1,17 @@
 # 👋 Hi, I'm Vishal Lokhande
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6b043e34-85c8-467f-b48c-2103d80d87c9" />
+
 
 🚀 DevOps Engineer | Kubernetes | AWS & Azure | CI/CD Automation  
-📍 Bangalore, India | 💼 3+ Years of Industry Experience
-
+📍 Bangalore, India | 💼 3+ Years of Industry Experience 
+  
 ---
 
 ## 🧑‍💻 About Me
 
 I am a **DevOps Engineer with 3+ years of hands-on experience** building, automating, and operating **scalable, secure, and highly available cloud-native systems**.
 
-I specialize in:
+I specialize in:                                                               <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/fe8a06c1-e28d-4eec-9471-83eea460ebac" />
 - Designing **CI/CD pipelines from scratch**
 - Automating infrastructure using **IaC & scripting**
 - Deploying and managing **containerized workloads on Kubernetes**
