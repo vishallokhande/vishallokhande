@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vishal Lokhande
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/6b043e34-85c8-467f-b48c-2103d80d87c9" />
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 
 
 🚀 DevOps Engineer | Kubernetes | AWS & Azure | CI/CD Automation  
